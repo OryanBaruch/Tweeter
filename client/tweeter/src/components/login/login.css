@@ -1,0 +1,21 @@
+.form__elements{
+    display: flex;
+    margin-top: 5em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    column-gap:20px !important;
+}
+
+.input{
+    margin-top: 1em !important;
+    margin-bottom: 30px;
+}
+
+.buttonSubmit{
+    margin-top: 1rem !important;
+}
+
+/* form{
+    background-color: #1DA1F2;
+} */
